@@ -1,0 +1,517 @@
+*{
+    margin: 0;
+    padding: 0;
+   font-family: 'Merriweather', serif;
+}
+
+/* header part one */
+.banner{
+     width: 1100px; 
+     height: 500px; 
+     background-image: url("B9A1-New-Year-New-Mission/Banner Image.png"); 
+      margin: 40px auto  0px auto;  
+      border-radius: 16px; 
+     background-size: contain; 
+     background-repeat: no-repeat;
+     position:fixed; 
+    
+   
+     
+     
+ } 
+ .banner{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.527),rgba(0, 0, 0, 0.5)) , url("B9A1-New-Year-New-Mission/Banner Image.png");
+    position: fixed;
+    width: 1320px;
+    height: 600px;
+    top: 0px;
+    left: 0%;
+    text-align: center;
+    object-fit: cover;
+
+
+.hny{
+    width: 259px;
+    height: 40px;
+    font-size: 30px;
+    margin: 0px auto;
+   padding-top: 100px;
+    color: rgba(255, 255, 255, 1);
+    font-weight: 400;
+    
+    
+}
+
+.content{
+    width: 632px;
+    height: 190px;
+    font-weight: 900;
+    color: rgba(255, 255, 255, 1);
+    font-size: 72px;
+    line-height: 95px;
+    text-align: center;
+    margin: 0px auto;
+   
+
+
+}
+
+/* Main Section */
+
+.text.offer{
+    color:red;
+    font-weight: 900;
+    text-align: center;
+    font-size: 88px;
+    margin-top: 650px;
+    line-height: 106.5px;
+    left: 209px; 
+    top: 650px; 
+    position: absolute; 
+    text-align: center; 
+    color: #FF0000;
+     font-size: 88px; 
+     font-family: Inter;
+      font-weight: 700; 
+      word-wrap: break-word
+}
+
+.holiday{
+    color: rgba(255, 0, 0, 1);
+    font-weight: 500;
+    text-align: center;
+    line-height: 29.05px;
+    font-size: 21px;
+    margin-top: 30px;
+}
+
+.category{
+    color: black;
+    font-size: 48px;
+    text-align: center;
+    line-height: 58.09px;
+    font-weight: 700;
+}
+
+.newyearphoto{
+    
+    background-image: url(B9A1-New-Year-New-Mission/New Year Photo.png);
+    width:500px;
+    height:300px;
+   margin: 20px auto 0px auto;
+    background-size:cover;
+}
+
+/* section2 */
+.section2{
+    width: 1100px; 
+    height: 500px; 
+    background-image: url("B9A1-New-Year-New-Mission/Vectorrr.png"); 
+     margin: 50px auto  0px auto;  
+     border-radius: 16px; 
+    background-size: contain; 
+    background-repeat: no-repeat; 
+ 
+ 
+    background-image: linear-gradient(rgba(0, 0, 0, 0.527),rgba(0, 0, 0, 0.5)) , url("B9A1-New-Year-New-Mission/Vectorrr.png");
+    position: fixed;
+    width: 1320px;
+    height: 600px;
+    top: 1350pxs;
+    left: 2%;
+    text-align: center;
+    object-fit: cover;
+
+}
+
+
+.content1{
+    width: 646px;
+    height: 176px;
+}
+.content1 h3{
+
+    color: rgba(255, 255, 255, 1);
+    font-weight: 900;
+     padding: 100px 0px 0px 70px;
+    font-size: 64px;
+
+}
+.dolor{
+    color: rgba(255, 255, 255, 0.8);
+    font-size: 13px;
+       padding: 10px 0px 0px 70px;
+
+}
+.button{
+    color: rgba(255, 255, 255, 1);
+    font-weight: 700;
+    font-size: 20px;
+    width: 103px;
+    height: 24px;
+    padding: 50px 0px 0px 100px;
+}
+.image{
+    
+     margin:50px 0px 0px 20px;
+     position: fixed;
+    width: 1320px;
+    height: 600px;
+    top: 0%;
+    left: 2%;
+    text-align: center;
+    object-fit: cover;
+    
+}
+.vector{
+    display: flex;
+}
+
+/* Section3 */
+.section3{
+   width: 1100px;
+   height: 300px;
+   background-image: linear-gradient(rgb(238, 142, 217), rgba(255, 0, 0, 0));
+   margin: 50px auto 0px auto;
+   line-height: 40px;
+   text-align: center;
+   border-radius: 8px;
+   
+   
+
+ 
+  
+}
+
+.items{
+    
+    color: black;
+    font-weight: 600;
+    
+    
+    
+    
+}
+.items span{
+    color: red;
+}
+.section3 button{
+    background-color: red;
+    width: 100px;
+    height: 30px;
+   
+    color: rgba(255, 255, 255, 1);
+    font-weight: 700;
+    border-radius: 8px;
+    border-color: red;
+}
+
+.items1{
+    padding-top: 88px;
+}
+/* Section4 */
+  .section4{
+   width:1100px;
+    height: 250px;
+    display: flex;
+     gap: 150px; 
+    
+    margin: 0px auto 0px auto;
+}
+    
+ 
+
+
+
+
+.div2{
+    width: 300px;
+  
+}
+
+.border1{
+    width:200px;
+    height:200px;
+    border-radius: 50%;
+    border: 7px solid red;
+    margin-right: 20px;
+}
+.border2{
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+    border: 2px solid green;
+    background-image: url("B9A1-New-Year-New-Mission/Ellipse 1.png");
+    background-size: cover;
+   margin-left: auto;
+   margin-right: auto;
+   margin-top: 20px;
+}
+.div1 span{
+ color:red;
+ font-size: 15px;
+ font-weight: 700;
+}
+.div h1{
+   
+    
+    color: black;
+    font-weight: 500;
+    padding-top: 10px;
+}
+.div1 p{
+    color: rgba(7, 2, 17, 0.6);
+    font-size: 13px;
+    font-weight: 500;
+    padding-top: 10px;
+}
+.div1{
+    padding-top: 30px;
+    width: 300px;
+    
+    
+}
+.div3{
+   
+    margin-right: 0;
+    width: 300px;
+
+}
+
+.div3 h1{
+    color:red;
+    padding-top: 20px;
+    width: 300px;
+    font-size: 50px;
+    font-weight: 700;
+}
+.div3 p{
+   font-weight: 500;
+   padding-top: 10px ;
+   font-size: 13px;
+   color:rgba(7, 2, 17, 0.6); 
+}
+
+
+/* section5 */
+.section5{
+    width: 1100px;
+    height: 700px;
+    
+    margin: 0px auto 0px auto;
+    text-align: center;
+}
+
+
+
+.section5 p{
+    font-size: 15px;
+    font-weight: 900;
+    color:black
+
+}
+.section5 span{
+    color:red
+}
+.section5 h1{
+    font-size: 72px;
+    padding: 30px;
+    font-weight: 700;
+}
+.section p{
+    color:rgba(7, 2, 17, 0.6);
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 32px;
+}
+.rectangle2{
+    background-image: url("B9A1-New-Year-New-Mission/Rectangle 2.png");
+    width: 1100px;
+    height: 150px;
+    margin-bottom: 1000px;
+    margin: 0px auto 0px auto;
+  
+}
+.container{
+    display: flex;
+    margin-top: 30px;
+}
+.img3{
+    
+    margin-top: 111.5px 
+}
+.img1{
+    margin-top: 150px;
+}
+.img2{
+    margin-top: 90px;
+    
+}
+/* section6 */
+.section6{
+    width:1100px;
+    height:1050x;
+    margin: 60px auto 0px auto;
+    
+}
+
+.rec1{
+    width: 424px;
+    height: 450px;
+
+    background-image: url("B9A1-New-Year-New-Mission/Rectangle 3.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+.rec2{
+    width: 424px;
+    height: 450px;
+    
+    background-image:url("B9A1-New-Year-New-Mission/Rectangle 4.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    
+}
+.rec3{
+    width: 424px;
+    height: 450px;
+   
+    background-image: url("B9A1-New-Year-New-Mission/Rectangle 5.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+.products{
+    display: flex;
+    gap: 20px;
+    
+}
+.section6 span{
+    color: red;
+    font-weight: 900;
+    font-size: 24px;
+ 
+
+}
+.section6 h1{
+    font-size: 54px;
+}
+.section6 p{
+    color: rgba(7, 2, 17, 0.6);
+    font-weight: 400;
+    font-size: 18px;
+    padding-bottom: 30px;
+}
+.rec4{
+    width: 424px;
+    height: 450px;
+    background-image: url("B9A1-New-Year-New-Mission/Rectangle 6.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+.rec5{
+    width: 424px;
+    height: 450px;
+    background-image: url("B9A1-New-Year-New-Mission/Rectangle 7.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+.rec6{
+    width: 424px;
+    height: 450px;
+    background-image: url("B9A1-New-Year-New-Mission/Rectangle 8.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+/* last section */
+.panel{
+    width: 1100px;
+    height: 400px;
+    background-color: rgba(255, 0, 0, 0.05);
+    margin: 0px auto 0px auto;
+    text-align: center;
+    padding-top: 50px;
+    
+}
+
+.panel input{
+    font-size: 12px;
+    padding:30px;
+    width: 290px;
+     height: 10px; 
+    background-color: rgba(255, 255, 255, 1);
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+    border: none;
+}
+.panel button{
+    background-color: red;
+    color:white;
+    text-align: center;
+    font-size: 12px;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+    border: none;
+    padding:30px;
+    width:110px;
+}
+.panel input[type="text"]
+{
+    font-size: 12px;
+}
+
+.panel p{
+    color: rgba(7, 2, 17, 0.6);
+    font-size: 15px;
+    font-weight: 400;
+    padding: 30px;
+}
+
+.panel h3{
+    font-size: 50px;
+}
+
+/* footer */
+.footer{
+    width: 1100px;
+    height: 80px;
+    border-bottom: 1px solid rgba(255, 255, 255, 1);
+    margin:50px auto 0px auto;
+    background-color: rgba(7, 2, 17, 1);
+    color:rgba(255, 255, 255, 1);
+   padding-top: 50px;
+   font-size: 12px;
+}
+.footer-content{
+    display: flex;
+    justify-content: space-around;
+}
+.icons{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color:rgba(7, 2, 17, 1); 
+    width:1100px;
+    height:70px;
+    border-bottom:1px solid rgba(255, 255, 255, 1);
+    margin: 0px auto 0px auto;
+    gap: 12px;
+    
+}
+.footer-phn{
+    display: block;
+}
+
+
+.last{
+    background-color: rgba(7, 2, 17, 1);
+    height: 100px;
+    width: 1100px;
+    margin: 0px auto 0px auto;
+    display: flex;
+    justify-content: space-around;
+    color: rgba(255, 255, 255, 1);
+    padding-top: 40px;
+    font-size: 12px;
+}
+
+/* End */
